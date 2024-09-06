@@ -1,4 +1,4 @@
-# A-B_Testing_for_Digital_Marketing
+# A/B_Testing_for_Digital_Marketing
 
 ## Data Source
 A case study from Harvard Business Publishing Education: https://hbsp.harvard.edu/product/M347-PDF-ENG
